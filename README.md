@@ -65,8 +65,12 @@ Digital Strategy • Performance Marketing • Programmatic SEO • Lead Generat
 ### GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralch22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rami's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralch22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ralch22&theme=tokyonight" alt="Rami's GitHub stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ralch22&theme=tokyonight" alt="Most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ralch22&theme=tokyonight&utcOffset=4" alt="Productive time" />
 </p>
 
 <p align="center">
