@@ -18,17 +18,18 @@
 
 ### About Me
 
-I'm a **technical founder** and **builder** based in Dubai. I lead **Emerge Digital**, a full-service digital marketing & development agency, while actively shipping real products — from AI agents and Progressive Web Apps to XRPL blockchain tools.
+I'm a **technical founder** and **builder** based in Dubai. I lead **Emerge Digital**, a full-service digital growth & development agency, while actively shipping real products — from AI agents and property-tech platforms to XRPL blockchain tools.
 
-I combine **growth marketing expertise** with **hands-on development** to turn ideas into scalable, user-focused digital realities. Most of what I ship runs on the edge — **Astro**, **Next.js**, and **Cloudflare Workers**.
+I combine **growth marketing** with **hands-on engineering** to turn ideas into scalable, user-focused products. Almost everything I ship runs on the edge: **Astro**, **Next.js**, and **Cloudflare Workers**, wired to **AI agents** and automation.
 
-### What I'm Currently Building
+### What We're Building
 
-- **InvestOffPlan** — Dubai off-plan property search platform on Next.js + Cloudflare Workers, with sold-price data and SEO at scale
-- **Aquora** — UAE pool & spa ecommerce store on a headless commerce stack
-- **Emerge Digital** — The agency's corporate site and internal AI/automation OS (multi-agent orchestration, private AI CX)
-- **Shield Finance** — Institutional-grade multi-asset staking vaults on the XRPL
-- **Intro to Islam** — Full-featured educational PWA with offline support, Zoom, Moodle, and Cal.com
+- **Property tech** — [InvestOffPlan](https://investoffplan.com) is a Dubai off-plan property search platform: a 3,900+ project catalog on Cloudflare D1, bilingual EN/AR, an AI "Off-Plan Advisor" grounded in a 790-doc corpus (Workers AI), sold-price data, and programmatic SEO at scale.
+- **Ecommerce** — [Aquora](https://aquora.ae) is a UAE pool & spa store on a headless commerce stack with a live pricing pipeline and Merchant Center feeds.
+- **Agency + AI OS** — [Emerge Digital](https://emergedigital.com) builds bilingual marketing sites and a private AI/automation layer: multi-agent orchestration, a second-brain "VaultOS", and sovereign, self-hosted AI CX for clients.
+- **Bilingual local growth** — brand sites like [J Pools](https://jpools.ae) (Dubai) and [Sydney Electrical Service](https://sydneyelectricalservice.com.au) (AU) pair Astro front-ends with SEO, GBP, and CRM/lead automation.
+- **Blockchain (XRPL)** — [Shield Finance](https://shyield.finance) is institutional-grade multi-asset staking vaults on the XRP Ledger; [Fire-Flood-Pay](https://github.com/ralch22/Fire-Flood-Pay) is oracle-triggered disaster-relief smart escrow (XRPL Hackathon 2026).
+- **PWAs** — [Intro to Islam](https://intro-to-islam-pwa.vercel.app) is an installable education PWA with offline support, Zoom, Moodle, and Cal.com.
 
 ### Core Skills & Interests
 
@@ -45,13 +46,15 @@ Digital Strategy • Performance Marketing • Programmatic SEO • Lead Generat
 
 ### Featured Projects
 
-| Project | Description | Stack | Link |
+| Project | What it is | Stack | Links |
 |---|---|---|---|
-| [InvestOffPlan](https://github.com/ralch22/investoffplan) | Dubai off-plan property search | Next.js, TS, Cloudflare Workers | — |
-| [Aquora](https://github.com/ralch22/aquora) | UAE pool & spa ecommerce | TypeScript, Headless commerce | [aquora.ae](https://aquora.ae) |
-| [Emerge Digital](https://github.com/ralch22/emerge-digital-website) | Agency marketing site | Astro 5, Tailwind, CF Pages | [emergedigital.com](https://emergedigital.com/) |
-| [Intro to Islam](https://github.com/ralch22/Intro-to-Islam) | Educational platform PWA | TypeScript, Next.js | [Live](https://intro-to-islam-pwa.vercel.app) |
-| [Fire-Flood-Pay](https://github.com/ralch22/Fire-Flood-Pay) | XRPL disaster-relief smart escrow (XRPL Hackathon 2026) | XRPL, JavaScript | — |
+| **InvestOffPlan** | Dubai off-plan property search + AI advisor | Next.js, TS, Cloudflare Workers/D1 | [Live](https://investoffplan.com) |
+| **Aquora** | UAE pool & spa ecommerce | TypeScript, headless commerce | [Code](https://github.com/ralch22/aquora) · [Live](https://aquora.ae) |
+| **Emerge Digital** | Agency site + AI/automation OS | Astro 5, Tailwind, CF Pages | [Code](https://github.com/ralch22/emerge-digital-website) · [Live](https://emergedigital.com) |
+| **J Pools** | Bilingual (EN/AR) pools marketing site | Astro, Tailwind | [Live](https://jpools.ae) |
+| **Shield Finance** | Multi-asset staking vaults on the XRPL | XRPL, TypeScript | [Live](https://shyield.finance) |
+| **Intro to Islam** | Educational platform PWA | TypeScript, Next.js | [Code](https://github.com/ralch22/Intro-to-Islam) · [Live](https://intro-to-islam-pwa.vercel.app) |
+| **Fire-Flood-Pay** | XRPL disaster-relief smart escrow (Hackathon 2026) | XRPL, JavaScript | [Code](https://github.com/ralch22/Fire-Flood-Pay) |
 
 ---
 
